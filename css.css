@@ -1,0 +1,60 @@
+.errormsg, p{
+    display: none;
+    color: red;
+    font-size:15px; 
+    font-weight: 300; 
+    margin: 5px; 
+}
+
+form {
+    padding: 20px;
+}
+
+input{
+    width:95%;
+    height:50px;
+    font-size:20px;
+    padding: 5px;
+    margin-bottom: 5px; 
+    padding-right: 15px; 
+    border-radius: 10px;
+    border-width: 3px !important;
+}
+
+div {
+    background-color: white;
+    box-shadow: black;
+    align-self: center;
+}
+
+
+button{
+    width:100%;
+    background-color:red;
+    color:white;
+    border-color: red;
+    height:auto;
+    font-size:20px;
+    margin:1px;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+button:hover{
+    background-color: green;
+    border-color: green;
+}
+
+
+h2 {
+    width:500px;
+    color:green;
+    font-size:25px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.container{
+    padding: 20px !important;
+    margin: 20px;
+}
